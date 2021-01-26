@@ -1,5 +1,5 @@
 #include "MyFunctions.h"
-#include "exerciseString_functions.h"
+#include "string_functions.h"
 #include "importCsvHeader.h"
 
 int main()
